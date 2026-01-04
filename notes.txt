@@ -12,3 +12,9 @@ Day 4 – Branching
 - Made changes without touching main
 - Learned merge workflow
 
+Day 5 – Issues & Pull Requests
+- Created an Issue to track documentation work
+- Created a feature branch to fix the issue
+- Opened a Pull Request linked to the issue
+- Merged the Pull Request into main
+
