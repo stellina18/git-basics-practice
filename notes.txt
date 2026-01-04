@@ -7,3 +7,8 @@ Commands learned:
 - git commit
 - git push
 
+Day 4 – Branching
+- Created a feature branch
+- Made changes without touching main
+- Learned merge workflow
+
