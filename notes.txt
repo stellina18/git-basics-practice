@@ -1,0 +1,9 @@
+Day 2 – Git Basics
+
+Commands learned:
+- git init
+- git status
+- git add
+- git commit
+- git push
+
